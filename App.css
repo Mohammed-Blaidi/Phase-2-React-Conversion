@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  .app {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .product-list {
+    margin-top: 20px;
+  }
+  
+  .filter-section {
+    text-align: center;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #3e8e41;
+  }
+  
+  .product-display-area {
+    display: block;
+  }
+  
+  .product-item {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+  }
